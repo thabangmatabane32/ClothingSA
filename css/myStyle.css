@@ -1,0 +1,12 @@
+.social_login{
+    text-align: center;
+}
+.social_log{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+}
+.social_log li img{
+    width: 50px;
+}
